@@ -47,7 +47,7 @@
 	- 文档 ：TotalCommander
 	- 云盘 ：Baidu
 	- 邮箱 ：Outlook
-	- 日历 ：Google
+	- 日历 ：Google / 人生日历
 	- 时间 ：Pomotodo
 	- 翻译 ：Youdao / QTranslate
 	- 健康 ：f.lux (屏幕色温)
